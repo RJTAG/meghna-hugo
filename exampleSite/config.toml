@@ -1,4 +1,4 @@
-baseURL = "https://jtagsauce.netifly.com"
+baseURL = "https://jtagsauce.netifly.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
